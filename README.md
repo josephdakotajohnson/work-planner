@@ -16,7 +16,7 @@ I want to create a way to organize my work schedule online.
 
  - This website was coded by Joseph Dakota Johnson with starter code provided.
 
- - Instructor Caleb Crum helped me during class by showing me ways to add the time-block classes of past, present, and future. [Caleb's GitHub account](https://github.com/CalebCrumInstructor)
+ - Instructor Caleb Crum helped me during class by showing me ways to add the time-block classes of past, present, and future. He also helped me figure out how to add an a button to the HTML and a delete function. [Caleb's GitHub account](https://github.com/CalebCrumInstructor)
 
  - Tutor Alexis Gonzalez helped me during a tutoring session by helping me figure out the correct perspective to think on when researching and implementing coding and by helping me figure out how to pull from local storage with a kei.
 
@@ -35,6 +35,7 @@ I want to create a way to organize my work schedule online.
  - When you load the page again, your events saved in local storage appear where you saved them.
  - All the center divs of each row display as gray if the time block is past the current hour, red if the time block is within the current hour, and green if the time block is before the current hour.
  - You may schedule events in the current day from the hours of 9am to 5pm.
+ - A secret Easter Egg that requires some searching.
 
 ## Questions
 
